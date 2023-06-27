@@ -1,2 +1,2 @@
-# YelpCamp
-A repo to maintain the development of capstone project for full-stack web development Udemy course 
+# Tourist Reviews
+A repo to maintain the development of a full-stack project using the MERN stack.
